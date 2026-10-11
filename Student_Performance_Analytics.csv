@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python,AI,Maths,Attendance,Total_Marks,Average_Marks,Grade,Result,Attendance_Status
+101,Anu,AIML,85,88,80,92,253,84.33333333333333,B,Pass,Good Attendance
+102,Ravi,CSE,72,68,75,85,215,71.66666666666667,C,Pass,Good Attendance
+103,Priya,AIML,90,95,92,98,277,92.33333333333333,A,Pass,Good Attendance
+104,Kiran,ECE,65,70,60,72,195,65.0,D,Pass,Low Attendance
+105,Sneha,CSE,78,82,85,90,245,81.66666666666667,B,Pass,Good Attendance
+106,Arjun,CSE,55,60,58,78,173,57.666666666666664,F,Pass,Good Attendance
+107,Meena,AIML,91,94,88,96,273,91.0,A,Pass,Good Attendance
+108,Rahul,ECE,38,42,35,60,115,38.333333333333336,F,Fail,Low Attendance
+109,Divya,CSE,76,81,73,88,230,76.66666666666667,C,Pass,Good Attendance
+110,Karthik,AIML,83,79,85,91,247,82.33333333333333,B,Pass,Good Attendance
+111,Pooja,ECE,44,50,46,67,140,46.666666666666664,F,Pass,Low Attendance
+112,Sai,CSE,67,70,65,82,202,67.33333333333333,D,Pass,Good Attendance
+113,Lakshmi,AIML,95,89,93,99,277,92.33333333333333,A,Pass,Good Attendance
+114,Varun,ECE,72,75,69,85,216,72.0,C,Pass,Good Attendance
+115,Nisha,CSE,59,62,55,74,176,58.666666666666664,F,Pass,Low Attendance
+116,Teja,AIML,88,92,84,94,264,88.0,B,Pass,Good Attendance
+117,Kavya,ECE,63,68,71,80,202,67.33333333333333,D,Pass,Good Attendance
+118,Rohit,CSE,31,35,40,55,106,35.333333333333336,F,Fail,Low Attendance
+119,Harika,AIML,79,84,77,87,240,80.0,B,Pass,Good Attendance
+120,Manoj,ECE,86,90,82,92,258,86.0,B,Pass,Good Attendance
